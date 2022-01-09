@@ -1,2 +1,3 @@
-# projects-2022-technical-screening
-Technical screening solutions for 2022 CSE projects subcom application
+My solutions for the 2022 CSE projects subcom app.
+
+Solution for hard extremely extremely not working.
